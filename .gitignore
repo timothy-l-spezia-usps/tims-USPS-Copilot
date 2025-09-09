@@ -1,0 +1,31 @@
+# Build artifacts
+main
+basic_examples
+advanced_examples
+test_functionality
+
+# CMake build directory
+build/
+cmake_install.cmake
+CMakeCache.txt
+CMakeFiles/
+Makefile.cmake
+
+# IDE files
+.vscode/
+.vs/
+*.sln
+*.vcxproj*
+
+# Compiler output
+*.o
+*.obj
+*.exe
+
+# Temporary files
+*.tmp
+*~
+
+# OS specific
+.DS_Store
+Thumbs.db
